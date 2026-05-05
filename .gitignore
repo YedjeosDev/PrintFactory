@@ -84,9 +84,11 @@ coverage.xml
 *~
 
 # Excel temporary files
-~$*.xlsx
-~$*.xls
-.~lock.*
+*.xlsx
+*.xls
+*.xlsx
+.pdf
+*.pdf
 
 # Database
 *.db
@@ -97,3 +99,6 @@ coverage.xml
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+
+*.exe
