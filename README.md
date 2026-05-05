@@ -193,7 +193,3 @@ Para reportar bugs o sugerir mejoras:
 1. Abre un **Issue** detallando el problema
 2. Proporciona pasos para reproducirlo
 3. Incluye screenshots si es relevante
-
-
-
-**Made with ❤️ for efficient billing operations**
