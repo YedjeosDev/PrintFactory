@@ -61,20 +61,7 @@ python app.py
 4. 🖨️ Haz clic en **"Generar PDFs"** para crear los documentos
 5. ✅ Los PDFs se guardan en la carpeta **"Salidad Impresiones"**
 
----
 
-## � Capturas de Pantalla
-
-### Interfaz Principal
-![Interfaz Principal 1](Assets/Captures/Captura%20de%20pantalla%202026-05-04%20185158.png)
-
-### Carga de Archivo Excel
-![Carga de Datos](Assets/Captures/Captura%20de%20pantalla%202026-05-04%20185339.png)
-
-### Previsualización de Datos
-![Previsualización](Assets/Captures/Captura%20de%20pantalla%202026-05-04%20185358.png)
-
----
 
 ## �📋 Reglas de Negocio Implementadas
 
@@ -198,14 +185,7 @@ Edita la constante `LEGAL_TEXT` en `impresiones_app/core.py`.
 
 Este proyecto es de uso interno. Todos los derechos reservados.
 
----
 
-## 👤 Autor
-
-Desarrollado para **[Tu Empresa]**  
-Fecha: Abril 2025
-
----
 
 ## 🤝 Contribuciones
 
@@ -214,14 +194,6 @@ Para reportar bugs o sugerir mejoras:
 2. Proporciona pasos para reproducirlo
 3. Incluye screenshots si es relevante
 
----
 
-## 📞 Soporte
-
-Para soporte técnico, contacta a:
-- Email: soporte@tuempresa.com
-- Teléfono: +34 XXX XXX XXX
-
----
 
 **Made with ❤️ for efficient billing operations**
